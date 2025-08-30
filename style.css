@@ -1,0 +1,26 @@
+.b { 
+    background-color: rgb(39, 109, 231);
+
+}
+body {
+    background-color: rgb(238, 240, 237);
+    margin: 0px;
+    padding:0px;
+}
+div {
+    align-items: center;
+    background-color: aquamarine;
+    margin: 20px;
+    border-radius: 10px;
+    
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#divs {
+    background-color: beige;
+}
+#photo {
+    height: 20%;
+    width: 20%;
+    border-radius: 50px;
+
+}
